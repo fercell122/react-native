@@ -68,14 +68,11 @@ Antes de seguirmos para as configurações e uso do template, é ideal que você
 
 A estrutura de arquivos está da seguinte maneira:
 
-```bash
-rocketseat-basic
+
 ├── src/
 │   ├── config/
 │   │   └── ReactotronConfig.js
-│   ├── images/
-│   │   ├── rocketseat_logo_roxa.png
-│   │   └── rocketseat_logo.png
+│   
 │   ├── pages/
 │   │   └── Main/
 │   │       └── index.js
@@ -209,7 +206,7 @@ npm login
 
 4. Após configurar corretamente o `package.json` basta executar no terminal/prompt o comando `npm publish`;
 
-5. Com a publicação finalizada o template deve ficar disponível através do link `https://www.npmjs.com/package/react-native-template-<nome_do_template>`.
+
 
 <!-- CONTRIBUTING -->
 
